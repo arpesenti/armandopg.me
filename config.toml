@@ -1,0 +1,5 @@
+baseurl = "http://armandopg.me/"
+languageCode = "en-us"
+title = "Armando Pesenti Gritti"
+[params]
+  description = "Computer Engineer and Artificial Intelligence Enthusiast"
