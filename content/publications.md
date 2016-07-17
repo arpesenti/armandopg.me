@@ -7,11 +7,11 @@ type = "static"
 +++
 
 ### 2016
-*On-the-fly Image Classification to Help Blind People* (under review)  
+*[On-the-fly Image Classification to Help Blind People](http://armandopg.me/intenv16.pdf)* (preprint)  
 Dalal Khalid Aljasem, Michael Heeney, Armando Pesenti Gritti, Franco Raimondi  
 International Conference on Intelligent Environments (IE) 2016
 
-*CoSMed: A Confidentiality-Verified Social Media Platform* (under review)  
+*[CoSMed: A Confidentiality-Verified Social Media Platform](http://armandopg.me/itp16.pdf)* (preprint)  
 Thomas Bauereiß, Armando Pesenti Gritti, Andrei Popescu, Franco Raimondi
 International Conference on Interactive Theorem Proving (ITP) 2016
 
